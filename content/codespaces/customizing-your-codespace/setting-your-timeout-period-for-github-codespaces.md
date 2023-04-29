@@ -61,3 +61,4 @@ If you don't specify a timeout period when you create a codespace, then the defa
 You can set your default timeout period in your web browser, on {% data variables.product.prodname_dotcom_the_website %}. Alternatively, if you use {% data variables.product.prodname_cli %} to create a codespace you can set a timeout period for that particular codespace. For more information, click the appropriate tab above.
 
 {% endvscode %}
+.
